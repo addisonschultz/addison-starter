@@ -1,1 +1,9 @@
 /* Custom styles */
+
+/* Larger than 1000px screens */
+@media only screen and (min-width: 1000px) {
+}
+
+/* Smaller than 1000px screens */
+@media only screen and (max-width: 999px) {
+}
